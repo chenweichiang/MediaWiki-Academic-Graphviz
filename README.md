@@ -18,6 +18,16 @@
 - **學術級渲染引擎**：支援 `sfdp` 等現代佈局引擎，適合處理複雜的研究數據網路。
 - **一鍵自動化安裝**：提供專為 Docker 容器與 Linux 環境設計的安裝腳本，自動完成字型、庫與引擎的補完。
 
+### 📊 技術細節與相容性
+- **基於組件**：
+    - **MediaWiki Diagrams Extension**: v0.15.3 (由 Sam Wilson 開發)。
+    - **Graphviz 引擎**: v2.42.4+ (相容所有支援 DOT 語法之版本)。
+    - **字型庫**: Google Noto Sans CJK (OFL 授權)。
+- **支援環境**:
+    - **作業系統**: Linux (Debian 12/13, Ubuntu 22.04/24.04 優先)。
+    - **MediaWiki 版本範圍**: `1.40.0` 至 `1.47.x`。
+    - **部署方式**: Docker 容器或實體 Linux 伺服器且具備 `apt` 套件管理。
+
 ### 🚀 安裝步驟
 
 #### 1. 下載並部署擴展
@@ -54,6 +64,16 @@ An academic-grade diagramming solution for **MediaWiki**, designed to provide hi
 - **Academic CJK Font Integration**: Pre-configured with Google's **Noto Sans CJK** suite for perfect multi-language support and professional typesetting.
 - **Elite Layout Engines**: Supports modern engines like `sfdp` for complex research data visualizations.
 - **One-Click Automation**: Includes a streamlined `install.sh` for Docker containers/Linux to automate font and engine installation.
+
+### 📊 Technical Specifications
+- **Core Components**:
+    - **MediaWiki Diagrams Extension**: v0.15.3 (Originally developed by Sam Wilson).
+    - **Graphviz Engine**: v2.42.4+ (Compatible with all DOT-supported versions).
+    - **Typography**: Google Noto Sans CJK (OFL Licensed).
+- **Environment Support**:
+    - **Operating System**: Linux (Debian 12/13, Ubuntu 22.04/24.04 recommended).
+    - **MediaWiki Versions**: `1.40.0` to `1.47.x`.
+    - **Deployment**: Docker containers or native Linux environments with `apt` package manager.
 
 ### 🚀 Installation
 
