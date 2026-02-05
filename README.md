@@ -1,5 +1,9 @@
 # MediaWiki Academic Graphviz Support 🎓🎨
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Last Updated](https://img.shields.io/github/last-commit/chenweichiang/MediaWiki-Academic-Graphviz?label=Last%20Updated&color=orange)](https://github.com/chenweichiang/MediaWiki-Academic-Graphviz/commits/main)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/chenweichiang/MediaWiki-Academic-Graphviz/graphs/commit-activity)
+
 [繁體中文](#繁體中文) | [English](#english)
 
 ---
