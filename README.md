@@ -115,4 +115,25 @@ digraph G {
 This project includes a patched version of the **MediaWiki Diagrams Extension** by Sam Wilson, licensed under **GPL-3.0**. The patches and configuration scripts provided here are also released under **GPL-3.0**.
 
 ---
-*Maintained by Interaction Lab (Interaction Design, NTUB).*
+
+### 📖 How to Cite / 如何引用
+
+如果您在學術研究或專案中使用了此工具，請參考以下方式進行引用：
+
+If you use this toolkit in your academic research or projects, please cite it as follows:
+
+**APA Style:**
+> Chiang, C.-W. (2026). MediaWiki Academic Graphviz: A high-quality diagramming toolkit for research and design education. GitHub. https://github.com/chenweichiang/MediaWiki-Academic-Graphviz
+
+**BibTeX:**
+```bibtex
+@software{Chiang_MediaWiki_Academic_Graphviz_2026,
+  author = {Chiang, Chen-Wei},
+  title = {MediaWiki Academic Graphviz: A high-quality diagramming toolkit for research and design education},
+  url = {https://github.com/chenweichiang/MediaWiki-Academic-Graphviz},
+  year = {2026}
+}
+```
+
+---
+*Maintained by Chen-Wei Chiang | Interaction Lab (Interaction Design, NTUB).*
