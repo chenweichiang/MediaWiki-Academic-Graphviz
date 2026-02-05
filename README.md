@@ -123,12 +123,12 @@ This project includes a patched version of the **MediaWiki Diagrams Extension** 
 If you use this toolkit in your academic research or projects, please cite it as follows:
 
 **APA Style:**
-> Chiang, C.-W. (2026). MediaWiki Academic Graphviz: A high-quality diagramming toolkit for research and design education. GitHub. https://github.com/chenweichiang/MediaWiki-Academic-Graphviz
+> Chiang, C. (2026). MediaWiki Academic Graphviz: A high-quality diagramming toolkit for research and design education. GitHub. https://github.com/chenweichiang/MediaWiki-Academic-Graphviz
 
 **BibTeX:**
 ```bibtex
 @software{Chiang_MediaWiki_Academic_Graphviz_2026,
-  author = {Chiang, Chen-Wei},
+  author = {Chiang, Chenwei},
   title = {MediaWiki Academic Graphviz: A high-quality diagramming toolkit for research and design education},
   url = {https://github.com/chenweichiang/MediaWiki-Academic-Graphviz},
   year = {2026}
@@ -136,4 +136,4 @@ If you use this toolkit in your academic research or projects, please cite it as
 ```
 
 ---
-*Maintained by Chen-Wei Chiang | Interaction Lab (Interaction Design, NTUB).*
+*Maintained by Chenwei Chiang | Interaction Lab (Interaction Design, NTUB).*
