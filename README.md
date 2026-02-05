@@ -23,7 +23,9 @@ git clone https://github.com/chenweichiang/MediaWiki-Academic-Graphviz.git exten
 ```
 
 #### 2. 執行系統環境補完
-進入您的 MediaWiki 容器（或伺服器主機），執行 `install.sh` 以安裝字型與渲染引擎：
+進入您的 MediaWiki 容器（或伺服器主機），執行 `install.sh` 以安裝字型與渲染引擎。
+> [!IMPORTANT]
+> 此腳本適用於基於 **Debian/Ubuntu** 的系統（如官方 MediaWiki Docker 鏡像）。
 ```bash
 # 若使用 Docker
 docker exec -it <container_name> bash /var/www/html/extensions/Diagrams/install.sh
